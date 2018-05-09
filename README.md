@@ -1,17 +1,18 @@
 # mcu-robot
 In this assignment you will be building an obstacle avoiding mobile robot. The robot will be based on your breadboarded mcu. 
 
-## Step 1: Motorcontroller
+## Step 1: Motorcontroller (25%)
 The L293D is a 16-pin Motor Driver IC which can control a set of two DC motors simultaneously in any direction.
 The L293D is designed to provide bidirectional drive currents of up to 600 mA (per channel) at voltages from 4.5 V to 36 V (at pin 8!). You can use it to control small dc motors - toy motors. Sometimes it can be extremely hot.
 
-Heatsink...
+[Instruction for motorcontroler](https://youtu.be/d7oFD-zQpuQ)
 
-## Step 2: Ultrasonic Sensor
+## Step 2: Ultrasonic Sensor (25%)
+[Instructions for ultrasonic sensor](http://www.instructables.com/id/Easy-ultrasonic-4-pin-sensor-monitoring-hc-sr04/)
 
-## Step 3: Ultrasonic Sensor interfacing with motorcontroller
+## Step 3: Ultrasonic Sensor interfacing with motorcontroller (25%)
 
-## Step 4: Robot Chassi
+## Step 4: Robot Chassi (25%)
 The robot chassi has to be well-designed and make good use of the approved materials. The design needs to be innovative and needs to work properly with the robot circuit and the mechanical (moving) parts. You will be provided with one hardboard and one castor wheel for our chassi. You can also use the following materials:
 
 * cardboard
